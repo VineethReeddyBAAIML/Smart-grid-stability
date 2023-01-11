@@ -1,5 +1,5 @@
 # Smart-grid-stability
-
+Smart grid stability refers to the ability of a smart grid system to maintain its normal operation in the face of disturbances or changes in the system. This can include things like fluctuations in power demand, failures of equipment or components, or changes in the generation of power from renewable sources. A stable smart grid is one that is able to quickly detect and respond to disturbances in order to maintain a balance between power supply and demand and minimize any disruption to the system.
 ## Predictive features:
 
 1. 'tau1' to 'tau4': the reaction time of each network participant, a real value within the range 0.5 to 10 ('tau1' corresponds to the supplier node, 'tau2' to 'tau4' to the consumer nodes);
